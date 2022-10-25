@@ -1,2 +1,2 @@
 # C++
-C++和OpenCV实现的黄金矿工小游戏
+A Gold Miner Game in C++ and OpenCV.
